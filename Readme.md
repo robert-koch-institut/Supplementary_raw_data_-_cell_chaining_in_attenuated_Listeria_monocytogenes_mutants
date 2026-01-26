@@ -38,8 +38,8 @@ The dataset "Supplementary raw data on cell chaining in an attenuated Listeria m
 <!-- TOC_START: {"heading_depth": 2} -->
   - [Information on the dataset and context of origin](#information-on-the-dataset-and-context-of-origin)  
   - [Overview over the *L. monocytogenes* strains used for this manuscript](#overview-over-the-*l.-monocytogenes*-strains-used-for-this-manuscript)  
-  - [Content and structure of the raw supplemented raw images and data - Version A: per figure](#content-and-structure-of-the-raw-supplemented-raw-images-and-data---version-a:-per-figure)  
-  - [Content and structure of the raw supplemented raw images and data - Version B: data and images separated](#content-and-structure-of-the-raw-supplemented-raw-images-and-data---version-b:-data-and-images-separated)  
+  - [Content and structure of the raw supplemented raw images and data TBD Version A per figure](#content-and-structure-of-the-raw-supplemented-raw-images-and-data-tbd-version-a-per-figure)  
+  - [Content and structure of the raw supplemented raw images and data TBD Version B data and images separated](#content-and-structure-of-the-raw-supplemented-raw-images-and-data-tbd-version-b-data-and-images-separated)  
   - [Guidelines for reuse of the data](#guidelines-for-reuse-of-the-data)  
 <!-- TOC_END -->
 
@@ -85,7 +85,7 @@ The following strains were used for this manuscript. Detailed methodology on the
 
 
 
-## Content and structure of the raw supplemented raw images and data - Version A: per figure 
+## Content and structure of the raw supplemented raw images and data TBD Version A per figure 
 The raw data and relevant calculations that form the basis for the manuscript's figures are provided as .xlsx files. 
 
 The raw microscopy images, as well as uncropped images from a western blot, a gel electrophoresis and culture plates are provided in the "Images" subfolder as .tif files.  
@@ -224,7 +224,7 @@ TODO: Footer here
 .....
 
 
-## Content and structure of the raw supplemented raw images and data - Version B: data and images separated
+## Content and structure of the raw supplemented raw images and data TBD Version B data and images separated
 ### Data files
 The raw data and relevant calculations that form the basis for the manuscript's figures are provided as .xlsx files. The files are named according to the figures for which they form the basis.
 
