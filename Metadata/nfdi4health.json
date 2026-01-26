@@ -1,0 +1,192 @@
+{
+  "resource": {
+    "classification": {
+      "type": "Dataset"
+    },
+    "collection": [
+      "Robert Koch Institute"
+    ],
+    "descriptions": [
+      {
+        "language": "DE (German)",
+        "text": "The dataset \"Supplementary raw data on cell chaining in an attenuated Listeria monocytogenes\" provides the raw images and data for the manuscript \"On the role of cell chaining in the attenuation of a Listeria monocytogenes divIVA mutant\" (https://doi.org/10.64898/2026.01.05.697648)."
+      }
+    ],
+    "titles": [
+      {
+        "language": "DE (German)",
+        "text": "Supplementary raw data on cell chaining in an attenuated Listeria monocytogenes"
+      }
+    ],
+    "ids": [
+      {
+        "identifier": "10.5281/zenodo.18349471",
+        "typeGeneral": "Dataset",
+        "relationType": "A references B",
+        "scheme": "DOI"
+      },
+      {
+        "identifier": "https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants",
+        "typeGeneral": "Dataset",
+        "relationType": "A references B",
+        "scheme": "URL"
+      }
+    ],
+    "provenance": {
+      "dataSource": "Automatically uploaded: Other"
+    },
+    "keywords": [
+      {
+        "label": "Listeria monocytogenes",
+        "code": "http://id.nlm.nih.gov/mesh/D008089"
+      },
+      {
+        "label": "Mikroskopie",
+        "code": "http://id.nlm.nih.gov/mesh/D008853"
+      },
+      {
+        "label": "Microscopy",
+        "code": "http://id.nlm.nih.gov/mesh/D008853"
+      },
+      {
+        "label": "Public health surveillance",
+        "code": "http://id.nlm.nih.gov/mesh/D062486"
+      },
+      {
+        "label": "Gesundheitsberichterstattung",
+        "code": "http://id.nlm.nih.gov/mesh/D062486"
+      },
+      {
+        "label": "Germany",
+        "code": "http://id.nlm.nih.gov/mesh/D005858"
+      },
+      {
+        "label": "Deutschland",
+        "code": "http://id.nlm.nih.gov/mesh/D005858"
+      },
+      {
+        "label": "Open Data"
+      },
+      {
+        "label": "Offene Daten"
+      },
+      {
+        "label": "Epidemiology",
+        "code": "http://id.nlm.nih.gov/mesh/D004813"
+      },
+      {
+        "label": "Epidemiologie",
+        "code": "http://id.nlm.nih.gov/mesh/D004813"
+      },
+      {
+        "label": "RKI"
+      }
+    ],
+    "languages": [
+      "DE (German)"
+    ],
+    "nonStudyDetails": {
+      "useRights": {
+        "confirmations": {
+          "authority": true,
+          "irrevocability": true,
+          "terms": true,
+          "supportByLicensing": true
+        },
+        "label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
+      },
+      "version": "2026-01-26"
+    },
+    "webpage": "https://robert-koch-institut.github.io/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants",
+    "contributors": [
+      {
+        "nameType": "Personal",
+        "affiliations": [
+          {
+            "name": "Robert Koch Institute",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
+          }
+        ],
+        "personal": {
+          "type": "Creator/Author",
+          "givenName": "Sabrina",
+          "familyName": "Wamp",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-0387-4171",
+              "scheme": "ORCID"
+            }
+          ]
+        }
+      },
+      {
+        "nameType": "Personal",
+        "affiliations": [
+          {
+            "name": "Robert Koch Institute",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
+          }
+        ],
+        "personal": {
+          "type": "Creator/Author",
+          "givenName": "Gudrun",
+          "familyName": "Holland"
+        }
+      },
+      {
+        "nameType": "Personal",
+        "affiliations": [
+          {
+            "name": "Otto von Guericke University Magdeburg"
+          }
+        ],
+        "personal": {
+          "type": "Creator/Author",
+          "givenName": "Jeanine",
+          "familyName": "Rismondo",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-5337-3829",
+              "scheme": "ORCID"
+            }
+          ]
+        }
+      },
+      {
+        "nameType": "Personal",
+        "affiliations": [
+          {
+            "name": "Robert Koch Institute",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
+          }
+        ],
+        "personal": {
+          "type": "Creator/Author",
+          "givenName": "Sven",
+          "familyName": "Halbedel",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-5575-8973",
+              "scheme": "ORCID"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

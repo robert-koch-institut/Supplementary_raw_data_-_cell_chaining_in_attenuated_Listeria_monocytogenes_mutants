@@ -1,0 +1,156 @@
+{
+  "title": "Supplementary raw data on cell chaining in an attenuated Listeria monocytogenes",
+  "description": "The dataset \"Supplementary raw data on cell chaining in an attenuated Listeria monocytogenes\" provides the raw images and data for the manuscript \"On the role of cell chaining in the attenuation of a Listeria monocytogenes divIVA mutant\" (https://doi.org/10.64898/2026.01.05.697648).",
+  "resource_type": {
+    "id": "dataset"
+  },
+  "publication_date": "2026-01-26",
+  "creators": [
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Wamp",
+        "given_name": "Sabrina",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0000-0002-0387-4171"
+          }
+        ]
+      },
+      "affiliations": [
+        {
+          "name": "Robert Koch Institute",
+          "id": "01k5qnb77"
+        }
+      ]
+    },
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Holland",
+        "given_name": "Gudrun"
+      },
+      "affiliations": [
+        {
+          "name": "Robert Koch Institute",
+          "id": "01k5qnb77"
+        }
+      ]
+    },
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Rismondo",
+        "given_name": "Jeanine",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0000-0001-5337-3829"
+          }
+        ]
+      },
+      "affiliations": [
+        {
+          "name": "Otto von Guericke University Magdeburg"
+        }
+      ]
+    },
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Halbedel",
+        "given_name": "Sven",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0000-0002-5575-8973"
+          }
+        ]
+      },
+      "affiliations": [
+        {
+          "name": "Robert Koch Institute",
+          "id": "01k5qnb77"
+        }
+      ]
+    }
+  ],
+  "contributors": [],
+  "publisher": "Zenodo",
+  "version": "2026-01-26",
+  "dates": [
+    {
+      "date": "2026-01-26T18:04:13+01:00",
+      "type": {
+        "id": "created"
+      },
+      "description": "Date when the dataset was created"
+    }
+  ],
+  "languages": [
+    {
+      "id": "deu"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "relation_type": {
+        "id": "issupplementto"
+      },
+      "identifier": "https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants",
+      "resource_type": {
+        "id": "dataset"
+      }
+    }
+  ],
+  "rights": [
+    {
+      "id": "cc-by-4.0"
+    }
+  ],
+  "subjects": [
+    {
+      "subject": "Listeria monocytogenes"
+    },
+    {
+      "subject": "Mikroskopie"
+    },
+    {
+      "subject": "Microscopy"
+    },
+    {
+      "subject": "Public health surveillance"
+    },
+    {
+      "subject": "Gesundheitsberichterstattung"
+    },
+    {
+      "subject": "Germany"
+    },
+    {
+      "subject": "Deutschland"
+    },
+    {
+      "subject": "Open Data"
+    },
+    {
+      "subject": "Offene Daten"
+    },
+    {
+      "subject": "Epidemiology"
+    },
+    {
+      "subject": "Epidemiologie"
+    },
+    {
+      "subject": "RKI"
+    }
+  ],
+  "custom_fields": {
+    "legacy:communities": [
+      "robertkochinstitut"
+    ]
+  }
+}
