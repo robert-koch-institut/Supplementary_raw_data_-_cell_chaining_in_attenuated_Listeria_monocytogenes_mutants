@@ -23,7 +23,15 @@ Documentation
 <br> 
 
 **Cite**  
-Wamp, S., Holland, G., Rismondo, J., & Halbedel, S. (2026). Supplementary raw data on cell chaining in an attenuated Listeria monocytogenes [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.18349471](https://doi.org/10.5281/zenodo.18349471)
+Wamp, S., Holland, G., Rismondo, J., & Halbedel, S. (2026). Supplementary raw data on cell chaining in an attenuated Listeria monocytogenes [Data set]. Zenodo. [https://doi.org/18349471](https://doi.org/18349471)
+
+<br>
+
+---
+
+Corresponding author: Sven Halbedel [halbedels@rki.de](mailto:HalbedelS@rki.de)
+
+---
 
 
 <br>
@@ -63,29 +71,29 @@ The publication of the data as well as the quality management of the (meta-)data
 ## Overview over the *L. monocytogenes* strains used for this manuscript
 The following strains were used for this manuscript. Detailed methodology on their generation can be found in the methods section of the manuscript ([https://doi.org/10.64898/2026.01.05.697648](https://doi.org/10.64898/2026.01.05.697648)).  
 
-| Strain name | Description |
-| -------- | -------- | 
-| EGD-e (wt)     | Wildtype strain *L. monocytogenes*, <br>used as control     | 
-| LMSW49 (i*mreB*)    | MreB depletion strain, <br>MreB expression can be induced upon IPTG-treatment    | 
-| LMJR183 (i*ezrA*)  | EzrA depletion strain, <br>EzrA expression can be induced upon IPTG-treatment      | 
-| LMS2 (Δ*divIVA*)  | divIVA deletion strain      | 
-| LMSW207 (Δ*divIVA* i*mreB*)    | divIVA deletion and MreB depletion strain, <br>MreB expression can be induced upon IPTG-treatment    | 
-| LMSW208 (Δ*divIVA*  i*ezrA*)    | divIVA deletion and EzrA depletion strain, <br>EzrA expression can be induced upon IPTG-treatment    | 
-| BUG2214 (Δ*prfA*)   | prfA deletion strain    | 
-| LMS30 (i*divIVA* )   | divIVA depletion strain, <br>divIVA expression can be induced upon IPTG-treatment    | 
-| LMJD20 (wt)   | DsRed producing *L. monocytogenes* strain, <br>used as control   | 
-| LMSF2 (Δ*actA*)    | DsRed producing, actA deletion strain    | 
-| LMSW205 (Δ*divIVA* )    | DsRed producing, divIVA deletion strain    | 
-| LMSW202 (i*ezrA*)   | DsRed producing, EzrA depletion strain, <br>EzrA expression can be induced upon IPTG-treatment    | 
-| LMSW203 (i*mreB*)   | DsRed producing, MreB depletion strain, <br>MreB expression can be induced upon IPTG-treatment    | 
-| BUG3057 (*prfA\**)   | *L. monocytogenes* strain that encodes a PrfA variant that is constitutively active causing constitutive overexpression of PrfA-dependent virulence genes   | 
-| LMSW251 (Δ*divIVA prfA\**)   | divIVA deletion strain that encodes a PrfA variant that is constitutively active causing constitutive overexpression of PrfA-dependent virulence genes   | 
-| LMSW222 (Δ*divIVA secA2 M95I*) | divIVA deletion strain with secA2 mutation (M95I) |
-| LMSW223 (Δ*divIVA secA2 T123A*) | divIVA deletion strain with secA2 mutation (T123A) |
+| Strain name | Genetic background | Description |
+| -------- | -------- | -------- | 
+| EGD-e | wt| Wildtype strain *L. monocytogenes*, <br>used as control     | 
+| LMSW49 | i*mreB*    | MreB depletion strain, <br>MreB expression can be induced upon IPTG-treatment    | 
+| LMJR183  | i*ezrA*  | EzrA depletion strain, <br>EzrA expression can be induced upon IPTG-treatment      | 
+| LMS2  | Δ*divIVA*  | divIVA deletion strain      | 
+| LMSW207  | Δ*divIVA* i*mreB*    | divIVA deletion and MreB depletion strain, <br>MreB expression can be induced upon IPTG-treatment    | 
+| LMSW208  | Δ*divIVA*  i*ezrA*    | divIVA deletion and EzrA depletion strain, <br>EzrA expression can be induced upon IPTG-treatment    | 
+| BUG2214  | Δ*prfA*   | prfA deletion strain    | 
+| LMS30  | i*divIVA*    | divIVA depletion strain, <br>divIVA expression can be induced upon IPTG-treatment    | 
+| LMJD20  | wt   | DsRed producing *L. monocytogenes* strain, <br>used as control   | 
+| LMSF2  | Δ*actA*    | DsRed producing, actA deletion strain    | 
+| LMSW205  | Δ*divIVA*     | DsRed producing, divIVA deletion strain    | 
+| LMSW202  | i*ezrA*   | DsRed producing, EzrA depletion strain, <br>EzrA expression can be induced upon IPTG-treatment    | 
+| LMSW203  | i*mreB*   | DsRed producing, MreB depletion strain, <br>MreB expression can be induced upon IPTG-treatment    | 
+| BUG3057  | *prfA\**   | *L. monocytogenes* strain that encodes a PrfA variant that is constitutively active causing constitutive overexpression of PrfA-dependent virulence genes   | 
+| LMSW251  | Δ*divIVA prfA\**   | divIVA deletion strain that encodes a PrfA variant that is constitutively active causing constitutive overexpression of PrfA-dependent virulence genes   | 
+| LMSW222  | Δ*divIVA secA2 M95I* | divIVA deletion strain with secA2 mutation (M95I) |
+| LMSW223  | Δ*divIVA secA2 T123A* | divIVA deletion strain with secA2 mutation (T123A) |
 
 
 
-## Content and structure of the raw supplemented raw images and data TBD Version A per figure 
+## Content and structure of the raw supplemented raw images and data  
 The raw data and relevant calculations that form the basis for the manuscript's figures are provided as .xlsx files. 
 
 The raw microscopy images, as well as uncropped images from a western blot, a gel electrophoresis and culture plates are provided in the "Images" subfolder as .tif files.  
@@ -178,7 +186,7 @@ The naming and content of the image and data files are explained in the tables b
 | Figure&nbsp;S1 | Scanning electron microscopy image of EGD-e (wt) | [Images/Figure_S1_wt_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S1_wt_raw_image.tif) |
 | Figure&nbsp;S1 | Scanning electron microscopy image of LMS2 (Δ*divIVA*) | [Images/Figure_S1_divIVA_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S1_divIVA_raw_image.tif) |
 | Figure&nbsp;S1 | Scanning electron microscopy image of LMJR183 (i*ezrA*) | [Images/Figure_S1_ezrA_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S1_ezrA_raw_image.tif) |
-| Figure&nbsp;S1 | TODO: missing image, Scanning electron microscopy image of LMSW49 (i*mreB*) | [Images/Figure_S1_mreB_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S1_mreB_raw_image.tif) |
+| Figure&nbsp;S1 | Scanning electron microscopy image of LMSW49 (i*mreB*) | [Images/Figure_S1_mreB_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S1_mreB_raw_image.tif) |
 
 ### Supplementary Figure S2
 | Figure | Description | File |
@@ -192,7 +200,7 @@ The naming and content of the image and data files are explained in the tables b
 | Figure&nbsp;S3 | Fluorescence microscopy image of LMJD20 (wt, phase contrast) | [Images/Figure_S3_wt_pc_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S3_wt_pc_raw_image.tif) |
 | Figure&nbsp;S3 | Fluorescence microscopy image of LMJD20 (wt, TRITC) | [Images/Figure_S3_wt_TRITC_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S3_wt_TRITC_raw_image.tif) |
 | Figure&nbsp;S3 | Fluorescence microscopy image of LMSW202 (i*ezrA*, DAPI) | [Images/Figure_S3_ezrA_DAPI_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S3_ezrA_DAPI_raw_image.tif) |
-| Figure&nbsp;S3 | TODO: missing image, Fluorescence microscopy image of LMSW202 (i*ezrA*, phase contrast) | [Images/Figure_S3_ezrA_pc_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S3_ezrA_pc_raw_image.tif) |
+| Figure&nbsp;S3 | Fluorescence microscopy image of LMSW202 (i*ezrA*, phase contrast) | [Images/Figure_S3_ezrA_pc_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S3_ezrA_pc_raw_image.tif) |
 | Figure&nbsp;S3 | Fluorescence microscopy image of LMSW202 (i*ezrA*, TRITC) | [Images/Figure_S3_ezrA_TRITC_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S3_ezrA_TRITC_raw_image.tif) |
 | Figure&nbsp;S3 | Fluorescence microscopy image of LMSW203 (i*mreB*, DAPI) | [Images/Figure_S3_mreB_DAPI_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S3_mreB_DAPI_raw_image.tif) |
 | Figure&nbsp;S3 | Fluorescence microscopy image of LMSW203 (i*mreB*, phase contrast) | [Images/Figure_S3_mreB_pc_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S3_mreB_pc_raw_image.tif) |
@@ -290,12 +298,12 @@ The files are named according to the figures for which they form the basis.
 | Figure&nbsp;S1 | Scanning electron microscopy image of EGD-e (wt) | [Images/Figure_S1_wt_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S1_wt_raw_image.tif) |
 | Figure&nbsp;S1 | Scanning electron microscopy image of LMS2 (Δ*divIVA*) | [Images/Figure_S1_divIVA_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S1_divIVA_raw_image.tif) |
 | Figure&nbsp;S1 | Scanning electron microscopy image of LMJR183 (i*ezrA*) | [Images/Figure_S1_ezrA_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S1_ezrA_raw_image.tif) |
-| Figure&nbsp;S1 | TODO: missing image, Scanning electron microscopy image of LMSW49 (i*mreB*) | [Images/Figure_S1_mreB_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S1_mreB_raw_image.tif) |
+| Figure&nbsp;S1 | Scanning electron microscopy image of LMSW49 (i*mreB*) | [Images/Figure_S1_mreB_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S1_mreB_raw_image.tif) |
 | Figure&nbsp;S3 | Fluorescence microscopy image of LMJD20 (wt, DAPI) wt_DAPI | [Images/Figure_S3_wt_DAPI_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S3_wt_DAPI_raw_image.tif) |
 | Figure&nbsp;S3 | Fluorescence microscopy image of LMJD20 (wt, phase contrast) | [Images/Figure_S3_wt_pc_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S3_wt_pc_raw_image.tif) |
 | Figure&nbsp;S3 | Fluorescence microscopy image of LMJD20 (wt, TRITC) | [Images/Figure_S3_wt_TRITC_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S3_wt_TRITC_raw_image.tif) |
 | Figure&nbsp;S3 | Fluorescence microscopy image of LMSW202 (i*ezrA*, DAPI) | [Images/Figure_S3_ezrA_DAPI_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S3_ezrA_DAPI_raw_image.tif) |
-| Figure&nbsp;S3 | TODO: missing image, Fluorescence microscopy image of LMSW202 (i*ezrA*, phase contrast) | [Images/Figure_S3_ezrA_pc_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S3_ezrA_pc_raw_image.tif) |
+| Figure&nbsp;S3 | Fluorescence microscopy image of LMSW202 (i*ezrA*, phase contrast) | [Images/Figure_S3_ezrA_pc_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S3_ezrA_pc_raw_image.tif) |
 | Figure&nbsp;S3 | Fluorescence microscopy image of LMSW202 (i*ezrA*, TRITC) | [Images/Figure_S3_ezrA_TRITC_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S3_ezrA_TRITC_raw_image.tif) |
 | Figure&nbsp;S3 | Fluorescence microscopy image of LMSW203 (i*mreB*, DAPI) | [Images/Figure_S3_mreB_DAPI_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S3_mreB_DAPI_raw_image.tif) |
 | Figure&nbsp;S3 | Fluorescence microscopy image of LMSW203 (i*mreB*, phase contrast) | [Images/Figure_S3_mreB_pc_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S3_mreB_pc_raw_image.tif) |
