@@ -1,10 +1,10 @@
 {
-  "title": "Supplementary raw data on cell chaining in an attenuated Listeria monocytogenes",
-  "description": "The dataset \"Supplementary raw data on cell chaining in an attenuated Listeria monocytogenes\" provides the raw images and data for the manuscript \"On the role of cell chaining in the attenuation of a Listeria monocytogenes divIVA mutant\" (https://doi.org/10.64898/2026.01.05.697648).",
+  "title": "Supplementary raw data on cell chaining in an attenuated Listeria monocytogenes mutant",
+  "description": "The dataset \"Supplementary raw data on cell chaining in an attenuated Listeria monocytogenes mutant\" provides the raw images and data for the manuscript \"On the role of cell chaining in the attenuation of a Listeria monocytogenes divIVA mutant\" (https://doi.org/10.64898/2026.01.05.697648).",
   "resource_type": {
     "id": "dataset"
   },
-  "publication_date": "2026-01-26",
+  "publication_date": "2026-01-30",
   "creators": [
     {
       "person_or_org": {
@@ -29,7 +29,13 @@
       "person_or_org": {
         "type": "personal",
         "family_name": "Holland",
-        "given_name": "Gudrun"
+        "given_name": "Gudrun",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0000-0002-1786-1400"
+          }
+        ]
       },
       "affiliations": [
         {
@@ -52,7 +58,8 @@
       },
       "affiliations": [
         {
-          "name": "Otto von Guericke University Magdeburg"
+          "name": "Robert Koch Institute",
+          "id": "01k5qnb77"
         }
       ]
     },
@@ -72,16 +79,19 @@
         {
           "name": "Robert Koch Institute",
           "id": "01k5qnb77"
+        },
+        {
+          "name": "Otto von Guericke University Magdeburg"
         }
       ]
     }
   ],
   "contributors": [],
   "publisher": "Zenodo",
-  "version": "2026-01-26",
+  "version": "2026-01-30",
   "dates": [
     {
-      "date": "2026-01-26T18:04:13+01:00",
+      "date": "2026-01-30T09:23:44+01:00",
       "type": {
         "id": "created"
       },

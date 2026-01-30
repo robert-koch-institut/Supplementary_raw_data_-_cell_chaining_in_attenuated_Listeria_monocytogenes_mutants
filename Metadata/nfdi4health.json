@@ -9,13 +9,13 @@
     "descriptions": [
       {
         "language": "DE (German)",
-        "text": "The dataset \"Supplementary raw data on cell chaining in an attenuated Listeria monocytogenes\" provides the raw images and data for the manuscript \"On the role of cell chaining in the attenuation of a Listeria monocytogenes divIVA mutant\" (https://doi.org/10.64898/2026.01.05.697648)."
+        "text": "The dataset \"Supplementary raw data on cell chaining in an attenuated Listeria monocytogenes mutant\" provides the raw images and data for the manuscript \"On the role of cell chaining in the attenuation of a Listeria monocytogenes divIVA mutant\" (https://doi.org/10.64898/2026.01.05.697648)."
       }
     ],
     "titles": [
       {
         "language": "DE (German)",
-        "text": "Supplementary raw data on cell chaining in an attenuated Listeria monocytogenes"
+        "text": "Supplementary raw data on cell chaining in an attenuated Listeria monocytogenes mutant"
       }
     ],
     "ids": [
@@ -95,7 +95,7 @@
         },
         "label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
       },
-      "version": "2026-01-26"
+      "version": "2026-01-30"
     },
     "webpage": "https://robert-koch-institut.github.io/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants",
     "contributors": [
@@ -140,14 +140,26 @@
         "personal": {
           "type": "Creator/Author",
           "givenName": "Gudrun",
-          "familyName": "Holland"
+          "familyName": "Holland",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-1786-1400",
+              "scheme": "ORCID"
+            }
+          ]
         }
       },
       {
         "nameType": "Personal",
         "affiliations": [
           {
-            "name": "Otto von Guericke University Magdeburg"
+            "name": "Robert Koch Institute",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
           }
         ],
         "personal": {
