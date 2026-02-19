@@ -16,14 +16,16 @@ Documentation
 
 
 
-&emsp;&sup1; [Robert Koch Institute](https://www.rki.de/en) | [Unit 11](https://www.rki.de/fg11-en)  
-&emsp;&sup2; [Robert Koch Institute](https://www.rki.de/en) | [ZBS 4](https://www.rki.de/zbs4-en)  
-&emsp;&sup3; [Otto von Guericke University Magdeburg](https://www.med.ovgu.de/) | [Institute for Medical Microbiology and Hospital Hygiene](https://immb.med.ovgu.de/)
+&emsp;&emsp;&sup1; [Robert Koch Institute](https://www.rki.de/en) | [Unit 11](https://www.rki.de/fg11-en)  
+&emsp;&emsp;&sup2; [Robert Koch Institute](https://www.rki.de/en) | [ZBS 4](https://www.rki.de/zbs4-en)  
+&emsp;&emsp;&sup3; [Otto von Guericke University Magdeburg](https://www.med.ovgu.de/) | [Institute for Medical Microbiology and Hospital Hygiene](https://immb.med.ovgu.de/)
 
 <br> 
 
 **Cite**  
+<!-- CITATION_START: {"citation_style": "apa"} -->
 Wamp, S., Holland, G., Rismondo, J., & Halbedel, S. (2026). Supplementary raw data on cell chaining in an attenuated Listeria monocytogenes mutant [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.18349471](https://doi.org/10.5281/zenodo.18349471)
+<!-- CITATION_END -->
 
 <br>
 
@@ -37,7 +39,7 @@ Corresponding author: Sven Halbedel [halbedels@rki.de](mailto:HalbedelS@rki.de)
 <br>
 
 **Abstract**    
-The dataset "Supplementary raw data on cell chaining in an attenuated Listeria monocytogenes mutant" provides the raw images and data for the manuscript "On the role of cell chaining in the attenuation of a Listeria monocytogenes divIVA mutant" (https://doi.org/10.64898/2026.01.05.697648).
+The dataset "Supplementary raw data on cell chaining in an attenuated Listeria monocytogenes mutant" provides the raw images and data for the manuscript "On the role of cell chaining in the attenuation of a Listeria monocytogenes divIVA mutant" ([https://doi.org/10.64898/2026.01.05.697648](https://doi.org/10.64898/2026.01.05.697648)).
 
 <br>
 
@@ -45,7 +47,7 @@ The dataset "Supplementary raw data on cell chaining in an attenuated Listeria m
 
 <!-- TOC_START: {"heading_depth": 2} -->
   - [Information on the dataset and context of origin](#information-on-the-dataset-and-context-of-origin)  
-  - [Overview over the *L. monocytogenes* strains used for the manuscript](#overview-over-the-*l.-monocytogenes*-strains-used-for-the-manuscript)  
+  - [Overview over the *L. monocytogenes* strains used for the manuscript](#overview-over-the-l-monocytogenes-strains-used-for-the-manuscript)  
   - [Content and structure of the raw supplemented raw images and data](#content-and-structure-of-the-raw-supplemented-raw-images-and-data)  
   - [Guidelines for reuse of the data](#guidelines-for-reuse-of-the-data)  
 <!-- TOC_END -->
@@ -71,7 +73,7 @@ The publication of the data as well as the quality management of the (meta-)data
 The following strains were used for the manuscript. Detailed methodology on their generation can be found in the methods section of the manuscript ([https://doi.org/10.64898/2026.01.05.697648](https://doi.org/10.64898/2026.01.05.697648)).  
 
 | Strain name | Genetic background | Description |
-| -------- | -------- | -------- | 
+| :-------- | :-------- | :-------- | 
 | EGD-e | wt| Wildtype strain *L. monocytogenes*, <br>used as control     | 
 | LMSW49 | i*mreB*    | MreB depletion strain, <br>mreB expression can be induced upon IPTG-treatment    | 
 | LMJR183  | i*ezrA*  | EzrA depletion strain, <br>ezrA expression can be induced upon IPTG-treatment      | 
@@ -96,6 +98,7 @@ The following strains were used for the manuscript. Detailed methodology on thei
 The raw data and relevant calculations that form the basis for the manuscript's figures are provided as .xlsx files. 
 
 The raw microscopy images, as well as uncropped images from a western blot, a gel electrophoresis and culture plates are provided in the "Images" subfolder as .tif files.  
+
 > [Images/](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/)
 
 The naming and content of the image and data files are explained in the tables below per figure.
@@ -103,7 +106,7 @@ The naming and content of the image and data files are explained in the tables b
 
 ### Figure 1
 | Figure | Description | File |
-| -------- | -------- | -------- |
+| :-------- | :-------- | :-------- |
 | Figure&nbsp;1A | Growth curves of the strains EGD-e (wt) and LMSW49 (i*mreB*) ± IPTG | [Figure_1A_raw_data.xlsx](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Figure_1A_raw_data.xlsx)   |
 | Figure&nbsp;1B | Uncropped Western blot showing MreB and DivIVA expression  levels in the strains EGD-e (wt) and LMSW49 (i*mreB*) ± IPTG | [Images/Figure_1B_uncropped_blot_images.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_1B_uncropped_blot_images.tif)   |
 | Figure&nbsp;1C | Fluorescence microscopy image of EGD-e (wt, nile red)| [Images/Figure_1C_wt_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_1C_wt_raw_image.tif)  |
@@ -112,7 +115,7 @@ The naming and content of the image and data files are explained in the tables b
 
 ### Figure 2
 | Figure | Description | File |
-| -------- | -------- | -------- |
+| :-------- | :-------- | :-------- |
 | Figure&nbsp;2A | Growth curves of the strains EGD-e (wt) and LMJR183 (i*ezrA*) ± IPTG | [Figure_2A_raw_data.xlsx](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Figure_2A_raw_data.xlsx)   |
 | Figure&nbsp;2B | Fluorescence microscopy image of EGD-e (wt, nile red)  |  [Images/Figure_2B_wt_nile_red_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_2B_wt_nile_red_raw_image.tif)  |
 | Figure&nbsp;2B | Microscopy image of EGD-e (wt) in phase contrast | [Images/Figure_2B_wt_pc_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_2B_wt_pc_raw_image.tif)  |
@@ -124,7 +127,7 @@ The naming and content of the image and data files are explained in the tables b
 
 ### Figure 3
 | Figure | Description | File |
-| -------- | -------- | -------- |
+| :-------- | :-------- | :-------- |
 | Figure&nbsp;3A | Growth curves of the strains EGD-e (wt) and LMS2 (Δ*divIVA*) | [Figure_3A_raw_data.xlsx](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Figure_3A_raw_data.xlsx) |
 | Figure&nbsp;3B | Fluorescence microscopy image of EGD-e (wt, nile red) | [Images/Figure_3B_wt_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_3B_wt_raw_image.tif) |
 | Figure&nbsp;3B | Fluorescence microscopy image of Δ*divIVA* (LMS2, nile red) | [Images/Figure_3B_divIVA_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_3B_divIVA_raw_image.tif) |
@@ -132,7 +135,7 @@ The naming and content of the image and data files are explained in the tables b
 
 ### Figure 4
 | Figure | Description | File |
-| -------- | -------- | -------- |
+| :-------- | :-------- | :-------- |
 | Figure&nbsp;4 | Scanning electron microscopy image of wt | [Images/Figure_4_wt_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_4_wt_raw_image.tif) |
 | Figure&nbsp;4 | Scanning electron microscopy image of LMS2 (Δ*divIVA*) | [Images/Figure_4_divIVA_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_4_divIVA_raw_image.tif) |
 | Figure&nbsp;4 | Scanning electron microscopy image of LMSW49 (i*mreB*) without IPTG | [Images/Figure_4_mreB_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_4_mreB_image.tif) |
@@ -140,7 +143,7 @@ The naming and content of the image and data files are explained in the tables b
 
 ### Figure 5
 | Figure | Description | File |
-| -------- | -------- | -------- |
+| :-------- | :-------- | :-------- |
 | Figure&nbsp;5A | Fluorescence microscopy image of Δ*divIVA* i*mreB* (LMSW207, nile red) without IPTG | [Images/Figure_5A_divIVA_mreB_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_5A_divIVA_mreB_raw_image.tif) |
 | Figure&nbsp;5A | Fluorescence microscopy image of Δ*divIVA* i*ezrA* (LMSW208, nile red) without IPTG | [Images/Figure_5A_divIVA_ezrA_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_5A_divIVA_ezrA_raw_image.tif) |
 | Figure&nbsp;5B | Scanning electron microscopy image of LMSW207 (Δ*divIVA* i*mreB*) without IPTG | [Images/Figure_5B_divIVA_mreB_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_5B_divIVA_mreB_raw_image.tif) |
@@ -148,7 +151,7 @@ The naming and content of the image and data files are explained in the tables b
 
 ### Figure 6
 | Figure | Description | File |
-| -------- | -------- | -------- |
+| :-------- | :-------- | :-------- |
 | Figure&nbsp;6A | (Relative) invasion rates into hepatocytes by EGD-e (wt), BUG2214 (Δ*prfA*), LMS2 (Δ*divIVA*), LMSW49 (i*mreB*) and LMJR183 (i*ezrA*)  | [Figure_6A_raw_data.xlsx](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Figure_6A_raw_data.xlsx) |
 | Figure&nbsp;6B | Intracellular growth in macrophages of EGD-e (wt), BUG2214 (Δ*prfA*), LMS2 (Δ*divIVA*), LMSW49 (i*mreB*) and LMJR183 (i*ezrA*) | [Figure_6B_raw_data.xlsx](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Figure_6B_raw_data.xlsx) |
 | Figure&nbsp;6C | Plate photographies of plaque formation assays with EGD-e (wt), LMS30 (i*divIVA*), LMSW49 (i*mreB*) and LMJR183 (i*ezrA*) ± IPTG | [Images/Figure_6C_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_6C_raw_image.tif) |
@@ -160,14 +163,14 @@ The naming and content of the image and data files are explained in the tables b
 
 ### Figure 7
 | Figure | Description | File |
-| -------- | -------- | -------- |
+| :-------- | :-------- | :-------- |
 | Figure&nbsp;7A | (Relative) invasion rates into hepatocytes by EGD-e (wt), BUG2214 (Δ*prfA*), BUG3057 (*prfA\**), LMS2 (Δ*divIVA*) and LMSW251 (*ΔdivIVA prfA\**)  | [Figure_7A_raw_data.xlsx](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Figure_7A_raw_data.xlsx) |
 | Figure&nbsp;7B | Intracellular growth in macrophages of EGD-e (wt), BUG2214 (Δ*prfA*), BUG3057 (*prfA\**), LMS2 (Δ*divIVA*) and LMSW251 (Δ*divIVA prfA\**) | [Figure_7B_raw_data.xlsx](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Figure_7B_raw_data.xlsx) | 
 | Figure&nbsp;7C | Plate photographies of plaque formation assays with EGD-e (wt), BUG2214 (Δ*prfA*), BUG3057 (*prfA\**), LMS2 (Δ*divIVA*) and LMSW251 (Δ*divIVA prfA\**) | [Images/Figure_7C_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_7C_raw_image.tif) |
 
 ### Figure 8
 | Figure | Description | File |
-| -------- | -------- | -------- |
+| :-------- | :-------- | :-------- |
 | Figure&nbsp;8B | Fluorescence microscopy image of EGD-e (wt, nile red) | [Images/Figure_8B_wt_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_8B_wt_raw_image.tif) |
 | Figure&nbsp;8B | Fluorescence microscopy image of LMS2 (Δ*divIVA*, nile red) | [Images/Figure_8B_divIVA_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_8B_divIVA_raw_image.tif) |
 | Figure&nbsp;8B | Fluorescence microscopy image of LMSW222 (Δ*divIVA secA2 M95I*, nile red) | [Images/Figure_8B_divIVA_secA2_M95I_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_8B_divIVA_secA2_M95I_raw_image.tif) |
@@ -180,7 +183,7 @@ The naming and content of the image and data files are explained in the tables b
 
 ### Supplementary Figure S1
 | Figure | Description | File |
-| -------- | -------- | -------- |
+| :-------- | :-------- | :-------- |
 | Figure&nbsp;S1 | Scanning electron microscopy image of EGD-e (wt) | [Images/Figure_S1_wt_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S1_wt_raw_image.tif) |
 | Figure&nbsp;S1 | Scanning electron microscopy image of LMS2 (Δ*divIVA*) | [Images/Figure_S1_divIVA_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S1_divIVA_raw_image.tif) |
 | Figure&nbsp;S1 | Scanning electron microscopy image of LMJR183 (i*ezrA*) | [Images/Figure_S1_ezrA_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S1_ezrA_raw_image.tif) |
@@ -188,12 +191,12 @@ The naming and content of the image and data files are explained in the tables b
 
 ### Supplementary Figure S2
 | Figure | Description | File |
-| -------- | -------- | -------- |
+| :-------- | :-------- | :-------- |
 | Figure&nbsp;S2 | Growth curves of the strains LMSW207 (Δ*divIVA* i*mreB*) and LMSW208 (Δ*divIVA*  i*ezrA*) | [Figure_S2_raw_data.xlsx](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Figure_S2_raw_data.xlsx) |
 
 ### Supplementary Figure S3
 | Figure | Description | File |
-| -------- | -------- | -------- |
+| :-------- | :-------- | :-------- |
 | Figure&nbsp;S3 | Fluorescence microscopy image of macrophages infected with LMJD20 (wt, DAPI) | [Images/Figure_S3_wt_DAPI_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S3_wt_DAPI_raw_image.tif) |
 | Figure&nbsp;S3 | Fluorescence microscopy image of macrophages infected with LMJD20 (wt, phase contrast) | [Images/Figure_S3_wt_pc_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S3_wt_pc_raw_image.tif) |
 | Figure&nbsp;S3 | Fluorescence microscopy image of macrophages infected with LMJD20 (wt, TRITC) | [Images/Figure_S3_wt_TRITC_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S3_wt_TRITC_raw_image.tif) |
@@ -209,7 +212,7 @@ The naming and content of the image and data files are explained in the tables b
 
 ### Supplementary Figure S4
 | Figure | Description | File |
-| -------- | -------- | -------- |
+| :-------- | :-------- | :-------- |
 | Figure&nbsp;S4 | Phospholipolytic activity on egg-yolk agar of EGD-e (wt) | [Images/Figure_S4_egg_yolk_agar_wt_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S4_egg_yolk_agar_wt_raw_image.tif) |
 | Figure&nbsp;S4 | Phospholipolytic activity on egg-yolk agar of LMS2 (Δ*divIVA*) | [Images/Figure_S4_egg_yolk_agar_divIVA_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S4_egg_yolk_agar_divIVA_raw_image.tif) |
 | Figure&nbsp;S4 | Phospholipolytic activity on egg-yolk agar of BUG2214 (Δ*prfA*) | [Images/Figure_S4_egg_yolk_agar_prfA_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S4_egg_yolk_agar_prfA_raw_image.tif) |
@@ -226,7 +229,6 @@ The naming and content of the image and data files are explained in the tables b
 
 
 <!-- FOOTER_START: {"lang": "en"} -->
-
 
 ### Metadata
 
@@ -258,10 +260,10 @@ The zenodo.json includes the publication date and the date of the data status in
 
 Open data from the RKI are available on [Zenodo.org](http://Zenodo.org/), [GitHub.com](http://GitHub.com/), [OpenCoDE](https://gitlab.opencode.de), and [Edoc.rki.de](http://Edoc.rki.de/):
 
-- https://zenodo.org/communities/robertkochinstitut
-- https://github.com/robert-koch-institut
-- https://gitlab.opencode.de/robert-koch-institut
-- https://edoc.rki.de/
+- [https://zenodo.org/communities/robertkochinstitut](https://zenodo.org/communities/robertkochinstitut)
+- [https://github.com/robert-koch-institut](https://github.com/robert-koch-institut)
+- [https://gitlab.opencode.de/robert-koch-institut](https://gitlab.opencode.de/robert-koch-institut)
+- [https://edoc.rki.de/](https://edoc.rki.de/)
 
 
 
