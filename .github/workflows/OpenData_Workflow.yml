@@ -27,7 +27,7 @@ jobs:
       WEBSITE_ACTIVE: true
 
       #Update Github Details
-      GITHUB_DETAILS_ACTIVE: &GITHUB_DETAILS_ACTIVE
+      GITHUB_DETAILS_ACTIVE: true
           
       
     secrets:
