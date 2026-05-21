@@ -23,8 +23,8 @@ Documentation
 <br> 
 
 **Cite**  
-<!-- CITATION_START: {"citation_style": "apa"} -->
-Wamp, S., Holland, G., Rismondo, J., & Halbedel, S. (2026). Supplementary raw data on cell chaining in an attenuated Listeria monocytogenes mutant [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.18349471](https://doi.org/10.5281/zenodo.18349471)
+<!-- CITATION_START: {"citation_style": "apa", "markdown_style": "plain"} -->
+Wamp, S., Holland, G., Rismondo, J., & Halbedel, S. (2026). Supplementary raw data on cell chaining in an attenuated Listeria monocytogenes mutant [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.20322594](https://doi.org/10.5281/zenodo.20322594)
 <!-- CITATION_END -->
 
 <br>
@@ -91,6 +91,9 @@ The following strains were used for the manuscript. Detailed methodology on thei
 | LMSW251  | Δ*divIVA prfA\**   | divIVA deletion strain that encodes a PrfA variant that is constitutively active causing constitutive overexpression of PrfA-dependent virulence genes   | 
 | LMSW222  | Δ*divIVA secA2 M95I* | divIVA deletion strain with secA2 mutation (M95I) |
 | LMSW223  | Δ*divIVA secA2 T123A* | divIVA deletion strain with secA2 mutation (T123A) |
+| Δ*iap* | Δ*cwhA* | p60 (CwhA) deletion strain |
+| LMSW268 | Δ*divIVA secA2 M95I prfA\** | divIVA deletion strain with secA2 mutation (M95I) that additionally encodes a PrfA variant that is constitutively active causing constitutive overexpression of PrfA-dependent virulence genes |
+| LMSW269 | Δ*divIVA secA2 T123A prfA\** | divIVA deletion strain with secA2 mutation (T123A) that additionally encodes a PrfA variant that is constitutively active causing constitutive overexpression of PrfA-dependent virulence genes |
 
 
 
@@ -175,13 +178,13 @@ The naming and content of the image and data files are explained in the tables b
 | Figure&nbsp;8B | Fluorescence microscopy image of LMS2 (Δ*divIVA*, nile red) | [Images/Figure_8B_divIVA_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_8B_divIVA_raw_image.tif) |
 | Figure&nbsp;8B | Fluorescence microscopy image of LMSW222 (Δ*divIVA secA2 M95I*, nile red) | [Images/Figure_8B_divIVA_secA2_M95I_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_8B_divIVA_secA2_M95I_raw_image.tif) |
 | Figure&nbsp;8B | Fluorescence microscopy image of LMSW223 (Δ*divIVA secA2 T123A*, nile red) | [Images/Figure_8B_divIVA_secA2_T123A_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_8B_divIVA_secA2_T123A_raw_image.tif) |
-| Figure&nbsp;8C | SDS-PAGE image of EGD-e (wt), LMS2 (Δ*divIVA*), LMSW222 (Δ*divIVA secA2 M95I*) and LMSW223 (Δ*divIVA secA2 T123A*) | [Images/Figure_8C_uncropped_gel_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_8C_uncropped_gel_image.tif) |
+| Figure&nbsp;8C | SDS-PAGE image of EGD-e (wt), LMS2 (Δ*divIVA*), LMSW222 (Δ*divIVA secA2 M95I*), LMSW223 (Δ*divIVA secA2 T123A*) and Δ*iap* (Δ*cwhA*)  | [Images/Figure_8C_uncropped_gel_image_revised.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_8C_uncropped_gel_image_revised.tif) |
 | Figure&nbsp;8D | Images of swarming agar plates of EGD-e (wt), LMS2 (Δ*divIVA*), LMSW222 (Δ*divIVA secA2 M95I*) and LMSW223 (Δ*divIVA secA2 T123A*) | [Images/Figure_8D_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_8D_raw_image.tif) |
-| Figure&nbsp;8E | Plate photographies of plaque formation assays with  EGD-e (wt), LMS2 (Δ*divIVA*), LMSW222 (Δ*divIVA secA2 M95I*) and LMSW223 (Δ*divIVA secA2 T123A*) | [Images/Figure_8E_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_8E_raw_image.tif) |
-| Figure&nbsp;8F | (Relative) invasion rates into hepatocytes by EGD-e (wt), LMS2 (Δ*divIVA*), LMSW222 (Δ*divIVA secA2 M95I*) and LMSW223 (Δ*divIVA secA2 T123A*) | [Figure_8F_raw_data.xlsx](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Figure_8F_raw_data.xlsx) |
-| Figure&nbsp;8G | Intracellular growth in macrophages of EGD-e (wt), LMS2 (Δ*divIVA*), LMSW222 (Δ*divIVA secA2 M95I*) and LMSW223 (Δ*divIVA secA2 T123A*) | [Figure_8G_raw_data.xlsx](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Figure_8G_raw_data.xlsx) |
+| Figure&nbsp;8E | (Relative) invasion rates into hepatocytes by EGD-e (wt), LMS2 (Δ*divIVA*), LMSW222 (Δ*divIVA secA2 M95I*) and LMSW223 (Δ*divIVA secA2 T123A*) | [Figure_8E_raw_data.xlsx](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Figure_8E_raw_data.xlsx) |
+| Figure&nbsp;8F | Intracellular growth in macrophages of EGD-e (wt), LMS2 (Δ*divIVA*), LMSW222 (Δ*divIVA secA2 M95I*) and LMSW223 (Δ*divIVA secA2 T123A*) | [Figure_8F_raw_data.xlsx](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Figure_8F_raw_data.xlsx) |
+| Figure&nbsp;8G | Plate photographies of plaque formation assays with  EGD-e (wt), LMS2 (Δ*divIVA*), LMSW222 (Δ*divIVA secA2 M95I*), LMSW223 (Δ*divIVA secA2 T123A*), LMSW251 (Δ*divIVA prfA\**), LMSW268 (Δ*divIVA secA2 M95I prfA\**) and LMSW269 (Δ*divIVA secA2 M95I T123A prfA\**) | [Images/Figure_8G_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_8G_raw_image.tif) |
 
-### Supplementary Figure S1
+### Supplementary Figure S1 
 | Figure | Description | File |
 | :-------- | :-------- | :-------- |
 | Figure&nbsp;S1 | Scanning electron microscopy image of EGD-e (wt) | [Images/Figure_S1_wt_raw_image.tif](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Images/Figure_S1_wt_raw_image.tif) |
@@ -236,7 +239,7 @@ To increase findability, the provided data are described with metadata. The Meta
 
 > [Metadata/](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/tree/main/Metadata/)
 
-Versioning and DOI assignment are performed via [Zenodo.org](https://zenodo.org). The metadata prepared for import into Zenodo are stored in the [zenodo.json](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/blob/main/Metadata/zenodo.json). Documentation of the individual metadata variables can be found at [https://developers.zenodo.org/representation](https://developers.zenodo.org/#representation).
+Versioning and DOI assignment are performed via [Zenodo.org](https://zenodo.org). The metadata prepared for import into Zenodo are stored in the [zenodo.json](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/blob/main/Metadata/zenodo.json). Documentation of the individual metadata variables can be found at [https://developers.zenodo.org/#representation](https://developers.zenodo.org/#representation).
 
 > [Metadata/zenodo.json](https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants/blob/main/Metadata/zenodo.json)
 
