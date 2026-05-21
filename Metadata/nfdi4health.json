@@ -3,24 +3,21 @@
     "classification": {
       "type": "Dataset"
     },
-    "collection": [
-      "Robert Koch Institute"
-    ],
     "descriptions": [
       {
-        "language": "DE (German)",
+        "language": "EN (English)",
         "text": "The dataset \"Supplementary raw data on cell chaining in an attenuated Listeria monocytogenes mutant\" provides the raw images and data for the manuscript \"On the role of cell chaining in the attenuation of a Listeria monocytogenes divIVA mutant\" (https://doi.org/10.64898/2026.01.05.697648)."
       }
     ],
     "titles": [
       {
-        "language": "DE (German)",
+        "language": "EN (English)",
         "text": "Supplementary raw data on cell chaining in an attenuated Listeria monocytogenes mutant"
       }
     ],
     "ids": [
       {
-        "identifier": "10.5281/zenodo.18349471",
+        "identifier": "10.5281/zenodo.20322594",
         "typeGeneral": "Dataset",
         "relationType": "A references B",
         "scheme": "DOI"
@@ -95,7 +92,7 @@
         },
         "label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
       },
-      "version": "2026-01-30"
+      "version": "2026-05-21"
     },
     "webpage": "https://robert-koch-institut.github.io/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants",
     "contributors": [

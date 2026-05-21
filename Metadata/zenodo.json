@@ -1,6 +1,6 @@
 {
   "title": "Supplementary raw data on cell chaining in an attenuated Listeria monocytogenes mutant",
-  "description": "The dataset \"Supplementary raw data on cell chaining in an attenuated Listeria monocytogenes mutant\" provides the raw images and data for the manuscript \"On the role of cell chaining in the attenuation of a Listeria monocytogenes divIVA mutant\" (https://doi.org/10.64898/2026.01.05.697648).",
+  "description": "<p>The dataset \"Supplementary raw data on cell chaining in an attenuated Listeria monocytogenes mutant\" provides the raw images and data for the manuscript \"On the role of cell chaining in the attenuation of a Listeria monocytogenes divIVA mutant\" (<a href=\"https://doi.org/10.64898/2026.01.05.697648\">https://doi.org/10.64898/2026.01.05.697648</a>).</p>",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "CC-BY-4.0",
@@ -48,8 +48,8 @@
     "RKI"
   ],
   "subjects": [],
-  "publication_date": "2026-01-30",
-  "version": "2026-01-30",
+  "publication_date": "2026-05-21",
+  "version": "2026-05-21",
   "related_identifiers": [
     {
       "identifier": "https://github.com/robert-koch-institut/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants",
@@ -64,8 +64,8 @@
   ],
   "dates": [
     {
-      "start": "2026-01-30T09:23:44+01:00",
-      "end": "2026-01-30T09:23:44+01:00",
+      "start": "2026-05-21T12:15:07+02:00",
+      "end": "2026-05-21T12:15:07+02:00",
       "type": "Created",
       "description": "Date when the published data was created"
     }

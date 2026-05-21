@@ -1,10 +1,10 @@
 {
   "title": "Supplementary raw data on cell chaining in an attenuated Listeria monocytogenes mutant",
-  "description": "The dataset \"Supplementary raw data on cell chaining in an attenuated Listeria monocytogenes mutant\" provides the raw images and data for the manuscript \"On the role of cell chaining in the attenuation of a Listeria monocytogenes divIVA mutant\" (https://doi.org/10.64898/2026.01.05.697648).",
+  "description": "<p>The dataset \"Supplementary raw data on cell chaining in an attenuated Listeria monocytogenes mutant\" provides the raw images and data for the manuscript \"On the role of cell chaining in the attenuation of a Listeria monocytogenes divIVA mutant\" (<a href=\"https://doi.org/10.64898/2026.01.05.697648\">https://doi.org/10.64898/2026.01.05.697648</a>).</p>",
   "resource_type": {
     "id": "dataset"
   },
-  "publication_date": "2026-01-30",
+  "publication_date": "2026-05-21",
   "creators": [
     {
       "person_or_org": {
@@ -88,10 +88,10 @@
   ],
   "contributors": [],
   "publisher": "Zenodo",
-  "version": "2026-01-30",
+  "version": "2026-05-21",
   "dates": [
     {
-      "date": "2026-01-30T09:23:44+01:00",
+      "date": "2026-05-21T12:15:07+02:00",
       "type": {
         "id": "created"
       },

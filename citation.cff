@@ -1,10 +1,12 @@
 cff-version: 1.2.0
 type: dataset
 title: Supplementary raw data on cell chaining in an attenuated Listeria monocytogenes
+  mutant
 abstract: The dataset "Supplementary raw data on cell chaining in an attenuated Listeria
-  monocytogenes" provides the raw images and data for the manuscript "On the role
-  of cell chaining in the attenuation of a Listeria monocytogenes divIVA mutant" (https://doi.org/10.64898/2026.01.05.697648).
-date-released: '2026-01-26'
+  monocytogenes mutant" provides the raw images and data for the manuscript "On the
+  role of cell chaining in the attenuation of a Listeria monocytogenes divIVA mutant"
+  (https://doi.org/10.64898/2026.01.05.697648).
+date-released: '2026-05-21'
 keywords:
   - Listeria monocytogenes
   - Mikroskopie
@@ -21,8 +23,8 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/Supplementary_raw_data_-_cell_chaining_in_attenuated_Listeria_monocytogenes_mutants
 license: CC-BY-4.0
-doi: 10.5281/zenodo.18349471
-version: '2026-01-26T18:04:13+01:00'
+doi: 10.5281/zenodo.20322594
+version: '2026-05-21T12:15:07+02:00'
 authors:
   - family-names: Wamp
     given-names: Sabrina
@@ -31,12 +33,13 @@ authors:
   - family-names: Holland
     given-names: Gudrun
     affiliation: Robert Koch Institute | ZBS 4
+    orcid: https://orcid.org/0000-0002-1786-1400
   - family-names: Rismondo
     given-names: Jeanine
-    affiliation: Otto von Guericke University Magdeburg | Institute for Medical Microbiology
-      and Hospital Hygiene
+    affiliation: Robert Koch Institute | Unit 11
     orcid: https://orcid.org/0000-0001-5337-3829
   - family-names: Halbedel
     given-names: Sven
-    affiliation: Robert Koch Institute | Unit 11
+    affiliation: Robert Koch Institute | Unit 11, Otto von Guericke University Magdeburg
+      | Institute for Medical Microbiology and Hospital Hygiene
     orcid: https://orcid.org/0000-0002-5575-8973
